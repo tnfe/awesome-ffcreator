@@ -18,9 +18,13 @@
 ## 优秀文章
 - [https://juejin.cn/post/7133488109722796040](https://juejin.cn/post/7133488109722796040) 像写HTML一样编写视频：FFCreator网页端预览的改造。
 - [https://juejin.cn/post/7046653290422992927](https://juejin.cn/post/7046653290422992927) 用 node.js 来制作数据可视化视频吧。
-- [https://blog.csdn.net/weixin_46074836/article/details/125768618](https://blog.csdn.net/weixin_46074836/article/details/125768618) 用 node.js 来制作数据可视化视频吧。
+- [https://blog.csdn.net/weixin_46074836/article/details/125768618](https://blog.csdn.net/weixin_46074836/article/details/125768618) Windows安装FFCreator。
+- [https://www.cnblogs.com/laolieren/p/deploy_ffcreator_in_docker.html](https://www.cnblogs.com/laolieren/p/deploy_ffcreator_in_docker.html) FFCreator容器部署教程。
+- [https://blog.csdn.net/byCidde/article/details/123046640](https://blog.csdn.net/byCidde/article/details/123046640) FFCreator制作视频（合成视频）。
+- [https://blog.csdn.net/byCidde/article/details/123088672](https://blog.csdn.net/byCidde/article/details/123088672) 量产动效视频原来如此简单。
+
 
 ## 相关Library
 
 - [FFCreatorLite](https://github.com/drawcall/FFCreatorLite) FFCreator的lite版本，具备更快的速度以及直播流编辑。
-- [inkpaint](https://github.com/drawcall/inkpaint) InkPaint is a lightweight node.js canvas graphics animation library. It forks from the famous canvas engine pixi.js. You can use it to do server-side image synthesis.
+- [inkpaint](https://github.com/drawcall/inkpaint) InkPaint is a lightweight node.js canvas graphics animation library.

@@ -15,6 +15,11 @@
 - [kakashi](https://github.com/kinglisky/kakashi) 煎蛋无聊图搬运。
 - [banzou](https://github.com/charleyup/banzou) 根据素材动态合成伴奏音乐。
 
+## 优秀文章
+- [https://juejin.cn/post/7133488109722796040](https://juejin.cn/post/7133488109722796040) 像写HTML一样编写视频：FFCreator网页端预览的改造。
+- [https://juejin.cn/post/7046653290422992927](https://juejin.cn/post/7046653290422992927) 用 node.js 来制作数据可视化视频吧。
+- [https://blog.csdn.net/weixin_46074836/article/details/125768618](https://blog.csdn.net/weixin_46074836/article/details/125768618) 用 node.js 来制作数据可视化视频吧。
+
 ## 相关Library
 
 - [FFCreatorLite](https://github.com/drawcall/FFCreatorLite) FFCreator的lite版本，具备更快的速度以及直播流编辑。

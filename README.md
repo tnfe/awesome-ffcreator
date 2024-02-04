@@ -22,6 +22,8 @@
 - [https://www.cnblogs.com/laolieren/p/deploy_ffcreator_in_docker.html](https://www.cnblogs.com/laolieren/p/deploy_ffcreator_in_docker.html) FFCreator容器部署教程。
 - [https://blog.csdn.net/byCidde/article/details/123046640](https://blog.csdn.net/byCidde/article/details/123046640) FFCreator制作视频（合成视频）。
 - [https://blog.csdn.net/byCidde/article/details/123088672](https://blog.csdn.net/byCidde/article/details/123088672) 量产动效视频原来如此简单。
+- [https://blog.csdn.net/qq_41211900/article/details/135425066](https://blog.csdn.net/qq_41211900/article/details/135425066) FFCreator中FFCreatorCenter视频队例
+- [https://blog.csdn.net/qq_56894932/article/details/135495098](https://blog.csdn.net/qq_56894932/article/details/135495098) FFCreator结合Lottie解析json生成视频
 
 
 ## 相关Library
